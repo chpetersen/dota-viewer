@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="Dota_Viewer.app" target="15" />
+      <module name="Dota_Viewer.data" target="15" />
       <module name="Dota_Viewer.presentation" target="15" />
     </bytecodeTargetLevel>
   </component>
