@@ -7,4 +7,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Dota Viewer"
-include ':app', ':ui'
+include ':app', ':presentation'
+include ':domain'
