@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.7">
+    <bytecodeTargetLevel target="1.8">
       <module name="Dota_Viewer.app" target="15" />
       <module name="Dota_Viewer.data" target="15" />
       <module name="Dota_Viewer.presentation" target="15" />
