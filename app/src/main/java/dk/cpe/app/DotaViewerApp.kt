@@ -6,6 +6,7 @@ import dagger.hilt.android.HiltAndroidApp
 /**
  * Application class for the Dota viewer app
  *
+ *
  */
 @HiltAndroidApp
 class DotaViewerApp: Application() {
